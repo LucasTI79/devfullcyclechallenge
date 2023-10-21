@@ -39,7 +39,7 @@ docker exec -it client bash
 
 Instale as dependências do cliente dentro do ambiente
 
-```npm i``` ou ```yarn```
+```npm ci``` ou ```yarn```
 
 Execute o ambiente do cliente grpc
 ```sh
