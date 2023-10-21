@@ -41,9 +41,15 @@ Instale as dependências do cliente dentro do ambiente
 
 ```npm ci``` ou ```yarn```
 
+Copie as variáveis de ambiente
+
+```sh
+cp .env.example .env
+```
+
 Execute o ambiente do cliente grpc
 ```sh
-npm start:dev
+npm run start:dev
 ```
 
 Caso queira, pode gerar o build od projeto também
