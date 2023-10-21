@@ -48,14 +48,12 @@ npm start:dev
 
 Caso queira, pode gerar o build od projeto também
 
-Execute o ambiente do cliente grpc
+Para gerar o build do projeto
 ```sh
 npm run build
 ```
 
-E após isso, rodar o ambiente de produção
-
-Execute o ambiente do cliente grpc
+Para rodar o projeto em ambiente de produção
 ```sh
 npm start
 ```
